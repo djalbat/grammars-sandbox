@@ -1,4 +1,4 @@
-# Occam IDE
+# Occam Grammars Sandbox
 
 Occam's Grammars Sandbox.
 
